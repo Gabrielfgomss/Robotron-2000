@@ -1,2 +1,1 @@
-# Robotron-2000
-Projeto básico em javascript, html e css
+# robotron-2000
